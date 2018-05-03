@@ -46,3 +46,6 @@ C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\obj\D
 C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\obj\Debug\rBergomi.Graph.resources
 C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\obj\Debug\rBergomi.Plot.resources
 C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\obj\Debug\rBergomi.csproj.GenerateResource.Cache
+C:\Users\Marouane\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\bin\Debug\rBergomiProject.exe.config
+C:\Users\Marouane\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\obj\Debug\rBergomiProject.exe
+C:\Users\Marouane\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\obj\Debug\rBergomiProject.pdb

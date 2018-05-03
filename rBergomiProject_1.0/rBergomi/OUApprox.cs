@@ -52,7 +52,7 @@ namespace rBergomi
             for (int i = 0; i < M-1; i++)
             {
                 dw[i] = Math.Sqrt(grid.get_Step()) * simulator.Next();
-               // X[i] = ...
+               // X[i] = ...ok
             }
         }
 
