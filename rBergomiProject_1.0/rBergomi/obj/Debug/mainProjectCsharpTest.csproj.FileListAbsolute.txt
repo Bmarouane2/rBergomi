@@ -1,0 +1,11 @@
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\mainProjectCsharpTest\bin\Debug\mainProjectCsharpTest.exe.config
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\mainProjectCsharpTest\bin\Debug\mainProjectCsharpTest.exe
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\mainProjectCsharpTest\bin\Debug\mainProjectCsharpTest.pdb
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\mainProjectCsharpTest\obj\Debug\mainProjectCsharpTest.exe
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\mainProjectCsharpTest\obj\Debug\mainProjectCsharpTest.pdb
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\mainProjectCsharpTest\obj\Debug\mainProjectCsharpTest.csprojResolveAssemblyReference.cache
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\mainProjectCsharpTest\bin\Debug\ZedGraph.dll
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\mainProjectCsharpTest\bin\Debug\ZedGraph.Web.dll
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\mainProjectCsharpTest\obj\Debug\mainProjectCsharpTest.Graph.resources
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\mainProjectCsharpTest\obj\Debug\mainProjectCsharpTest.csproj.GenerateResource.Cache
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\mainProjectCsharpTest\obj\Debug\mainProjectCsharpTest.Plot.resources

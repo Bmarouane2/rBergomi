@@ -1,0 +1,11 @@
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\rBergomiTestProject\bin\Debug\rBergomiTestProject.dll
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\rBergomiTestProject\bin\Debug\rBergomiTestProject.pdb
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\rBergomiTestProject\bin\Debug\mainProjectCsharpTest.exe
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\rBergomiTestProject\bin\Debug\Meta.Numerics.dll
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\rBergomiTestProject\bin\Debug\ZedGraph.dll
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\rBergomiTestProject\bin\Debug\mainProjectCsharpTest.pdb
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\rBergomiTestProject\obj\Debug\rBergomiTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\rBergomiTestProject\obj\Debug\rBergomiTestProject.dll
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\mainProjectCsharpTest\rBergomiTestProject\obj\Debug\rBergomiTestProject.pdb
+C:\Users\Marouane\Desktop\M2IF\C++\plot\codesource\gnuplot-iostream-master\rBergomiProject_1.0\rBergomiTestProject\obj\Debug\rBergomiTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Ingeniance\Desktop\bergomi\rBergomiProject_1.0\rBergomiTestProject\obj\Debug\rBergomiTestProject.csprojResolveAssemblyReference.cache
