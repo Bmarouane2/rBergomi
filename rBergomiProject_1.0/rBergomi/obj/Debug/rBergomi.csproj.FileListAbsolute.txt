@@ -33,3 +33,6 @@ C:\Users\Ingeniance\Desktop\bergomi\rBergomiProject_1.0\rBergomi\obj\Debug\rBerg
 C:\Users\Ingeniance\Desktop\bergomi\rBergomiProject_1.0\rBergomi\obj\Debug\rBergomi.csproj.GenerateResource.Cache
 C:\Users\Ingeniance\Desktop\bergomi\rBergomiProject_1.0\rBergomi\bin\Debug\rBergomiProject.exe
 C:\Users\Ingeniance\Desktop\bergomi\rBergomiProject_1.0\rBergomi\bin\Debug\rBergomiProject.pdb
+C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\bin\Debug\rBergomiProject.exe.config
+C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\obj\Debug\rBergomiProject.exe
+C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\obj\Debug\rBergomiProject.pdb

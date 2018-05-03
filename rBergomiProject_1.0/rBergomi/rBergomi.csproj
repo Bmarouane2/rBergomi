@@ -41,12 +41,13 @@
     <NoWin32Manifest>true</NoWin32Manifest>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="alglibnet2">
-      <HintPath>..\..\..\..\..\..\C#\alglibnet2.dll</HintPath>
+    <Reference Include="alglibnet2, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Desktop\bergomi\alglibnet2.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Numerics, Version=3.1.0.0, Culture=neutral, PublicKeyToken=67d25c65a6631347, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Meta.Numerics.dll</HintPath>
+      <HintPath>..\..\..\..\..\Desktop\bergomi\Meta.Numerics.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -57,11 +58,13 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-    <Reference Include="ZedGraph">
-      <HintPath>..\..\..\..\..\Projet_Ines\libs\ZedGraph.dll</HintPath>
+    <Reference Include="ZedGraph, Version=5.0.9.41461, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Desktop\bergomi\ZedGraph.dll</HintPath>
     </Reference>
-    <Reference Include="ZedGraph.Web">
-      <HintPath>..\..\..\..\..\Projet_Ines\libs\ZedGraph.Web.dll</HintPath>
+    <Reference Include="ZedGraph.Web, Version=5.0.9.41464, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Desktop\bergomi\ZedGraph.Web.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
