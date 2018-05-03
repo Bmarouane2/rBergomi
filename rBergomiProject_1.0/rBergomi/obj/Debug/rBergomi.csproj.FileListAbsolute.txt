@@ -36,3 +36,13 @@ C:\Users\Ingeniance\Desktop\bergomi\rBergomiProject_1.0\rBergomi\bin\Debug\rBerg
 C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\bin\Debug\rBergomiProject.exe.config
 C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\obj\Debug\rBergomiProject.exe
 C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\obj\Debug\rBergomiProject.pdb
+C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\bin\Debug\rBergomiProject.exe
+C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\bin\Debug\rBergomiProject.pdb
+C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\bin\Debug\alglibnet2.dll
+C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\bin\Debug\Meta.Numerics.dll
+C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\bin\Debug\ZedGraph.dll
+C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\bin\Debug\ZedGraph.Web.dll
+C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\obj\Debug\rBergomi.csprojResolveAssemblyReference.cache
+C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\obj\Debug\rBergomi.Graph.resources
+C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\obj\Debug\rBergomi.Plot.resources
+C:\Users\Ingeniance\Documents\GitHub\rBergomi\rBergomiProject_1.0\rBergomi\obj\Debug\rBergomi.csproj.GenerateResource.Cache

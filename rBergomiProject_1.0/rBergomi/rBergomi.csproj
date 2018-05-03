@@ -77,6 +77,7 @@
     </Compile>
     <Compile Include="Grid.cs" />
     <Compile Include="HybridScheme.cs" />
+    <Compile Include="OUApprox.cs" />
     <Compile Include="Plot.cs">
       <SubType>Form</SubType>
     </Compile>
