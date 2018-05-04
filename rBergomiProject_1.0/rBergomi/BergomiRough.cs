@@ -137,6 +137,91 @@ namespace rBergomi
             return VIXFutures;
         }
 
+        public double VIXfuture_PulidoMethod(double T, Func<double, double> epsilon)
+        {
+            //Result
+            ColumnVector VIXFutures;
+            //For Exécution Time
+            DateTime start = DateTime.Now;
+
+            // the Gri t_0 ..... t_{100} = T
+            int n = 500;
+            Grid grid = new Grid(0, T, (int)Math.Abs(T * n));
+
+            int n_T = grid.get_timeNmbrStep();
+
+            //The second Grid  t_0=T, t_1 ..... t_N = T + Delta
+            int Nbstep = 20;
+
+            //int period = 100;
+            //VIXFutures = new ColumnVector(grid.get_timeNmbrStep() / period);
+
+
+            //--------------------------------------------------------------------------------------------------------------------------------------------------------------
+            //-----------------------------------MC----------------------------------------------------------------------------------------------------------------------
+            //-----------------------------------------------------------------------------------------------------------------------------------------------------------
+            var MCnbofSimulation = 3.0E4;
+            OUApproxVolterra OuApprox = new OUApproxVolterra(grid,H,1.5,500);
+            for (int mc = 1; mc <= MCnbofSimulation; mc++)
+            {
+                // 1-simulation of volterra Hybrid Scheme
+                ColumnVector Z;
+                double volterra;
+                //ColumnVector Z_Brownian;
+
+                OuApprox.simulate(out Z, out volterra);
+
+                //2 - extract the path of the Brownian motion Z driving the Volterra process
+                //Z_Brownian = ExtractBrownian(kappa, n_T, Z, volterra);
+
+                //Grid secondGrid2 = new Grid(grid.t(n_T), grid.t(n_T) + Delta, 20);
+                //ColumnVector volterraT2 = EulerMEthode(grid, secondGrid2, n_T, volterra, Z_Brownian);
+                //double VIX_future_i2 = VIX_Calculate(epsilon, secondGrid2, volterraT2);
+                //VIXFutures[0] += VIX_future_i2;
+
+
+                //DateTime starttestM = DateTime.Now;
+                //for (int zz = 1; zz <= 1.0E4; zz++)
+                //{
+                //    hybridscheme.simulateFFT(out Z, out volterra);
+                //}
+                //TimeSpan timeExecutiontestM = DateTime.Now - starttestM;
+
+                //DateTime starttest = DateTime.Now;
+                //for (int zz = 1; zz <= 1.0E4; zz++)
+                //{
+                //    for (int i = 1; i <= volterra.Count() / period; i++)
+                //    {
+                //        int N_i2 = i * period;
+
+                //        //3- approximate the continuous-time process V^T by the discrete-time version V^T~ defined via the  forward Euler scheme
+                //        double[] volterraT2 = EulerMEthode(grid, secondGrid, N_i2, volterra, Z_Brownian);
+                //        //double VIX_future_i2 = VIX_Calculate(epsilon, secondGrid, volterraT2);
+                //        //VIXFutures[i - 1] += VIX_future_i2;
+                //    }
+                //}
+                //TimeSpan timeExecutiontest = DateTime.Now - starttest;
+
+                //for (int i = 1; i <= volterra.Count() / period; i++)
+                //{
+                //    int N_i = i * period;
+                //    Grid secondGrid = new Grid(grid.t(N_i), grid.t(N_i) + Delta, Nbstep);
+                //    //3- approximate the continuous-time process V^T by the discrete-time version V^T~ defined via the  forward Euler scheme
+                //    double[] volterraT = EulerMEthode(grid, secondGrid, N_i, volterra, Z_Brownian);
+                //    double VIX_future_i = VIX_Calculate(epsilon, secondGrid, volterraT);
+                //    VIXFutures[i - 1] += VIX_future_i;
+                //}
+            }// ENd of MC
+            //MC Mean
+            //for (int i = 0; i < VIXFutures.Count(); i++)
+            //{
+            //    VIXFutures[i] /= MCnbofSimulation;
+            //}
+            //TimeSpan timeExecution = DateTime.Now - start;
+            //return VIXFutures;
+        return 0.0;
+        }
+
         private ColumnVector EulerMEthode2(Grid grid, ColumnVector volterra, ColumnVector Z_Brownian)//Not Used !! 
         {
             int Nbstep = 20;

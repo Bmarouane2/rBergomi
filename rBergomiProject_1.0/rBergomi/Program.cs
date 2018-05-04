@@ -33,7 +33,8 @@ namespace rBergomi
             //// the Gri t_0 ..... t_{100} = T
             int n = 500;
             Grid grid = new Grid(0, T, (int)Math.Abs(T * n));
-
+            //Pulido Method
+            //double vixfuture_PulidoMethod = model.VIXfuture_PulidoMethod(grid.t(35), epsilon_0);
             //lognormal
             double vixfuture_LogNormal = model.VIXfuture_LogNormal(grid.t(35), epsilon_0);
            // //Mc with hybrid Scheme
@@ -49,7 +50,7 @@ namespace rBergomi
                 int N_i = (i + 1) * perdiod;
                 ti[i] = grid.t((N_i));
                 newvixfutures[i] = vixfuture_Hybrid[i];
-                newvixtruncated[i] = model.VIXfuture_TruncatedChlsky(ti[i], epsilon_0);
+                //newvixtruncated[i] = model.VIXfuture_TruncatedChlsky(ti[i], epsilon_0);
                 newvixlognorm[i] = model.VIXfuture_LogNormal(ti[i], epsilon_0);
             }
             Application.Run(new Plot(ti, newvixlognorm, newvixfutures,newvixtruncated));
